@@ -1,0 +1,420 @@
+*,html,body{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.pheader {
+    text-decoration: none; 
+    color: black;
+}
+
+img{
+    width: auto;
+}
+
+.lol {
+    width: 117em;
+    height: 50em; 
+    
+} 
+
+.lor {
+    margin-left: 4em;
+    font-size: 17px;
+    color: white;
+}
+
+.caption {
+    font-size: 4em; 
+    margin-left: 70px;
+    margin-top: 2em;
+    color: black;  
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+
+header img {
+    position: absolute;
+    z-index: -1;
+    top: 0;
+    left: 0;
+}
+
+article {
+    font-size: 18px;
+}
+
+.reg {
+font-size: 20px;
+margin-top: 30px;
+margin-left: 65px;
+} 
+
+.asc {
+    font-size: 25px;
+    margin-top: 16em; 
+    display: flex;
+    justify-content: center;
+} 
+p {
+    font-size: medium;
+    font-style: italic;
+}
+
+.rink1 {
+    margin-top: 40px;
+    width: 5em; 
+    height: 5em;
+    margin-left: 38em;
+}
+
+.rink2 {
+    width: 5em; 
+    height: 5em;
+    margin-left: 5em;
+
+} 
+
+.rink3 {
+    width: 5em; 
+    height: 5em;
+    margin-left: 5em;
+}
+
+.rink4 {
+    width: 5em; 
+    height: 5em;
+    margin-left: 5em;
+}
+
+.exc {
+    margin-top: 70px;
+    font-size: 2em;
+    margin-left: 2em;
+    position: relative;
+    z-index: 0;
+}
+
+.fedd {
+    float: left;
+    margin-top: 3em;
+    transform: rotate(-5deg) ;
+    border-radius: 20px;
+    width: 40em;
+}
+
+.fed {
+    margin-top: 150px;
+    font-size: 3em;
+    margin-left: 15em; 
+    color: white;
+} 
+
+.ev {
+    border-left: 4px solid #31CEFF;
+    margin-bottom: 1em;
+
+}
+
+.h1e {
+    border-left: 4px solid #31CEFF;
+    margin-bottom: 1em;
+    margin-top: 2em;
+}
+
+.pixel {
+    display: flex;
+    margin-bottom: 9em;
+    margin-top: 5em;
+}
+
+.ex {
+    width: 15em; 
+    height: 15em;
+    margin-left: 60px;
+    border-radius: 50%;
+    border-left: 4px solid #31CEFF;
+    
+  
+} 
+
+ .ex1 {
+    width: 15em; 
+    height: 15em;
+    margin-left: 15em;
+    border-radius: 50%;
+    border-left: 4px solid #31CEFF;
+
+
+ 
+} 
+
+.ex2 {
+    width: 15em; 
+    height: 15em;
+    border-radius: 50%;
+    margin-left: 15em;
+    border-left: 4px solid #31CEFF;
+
+
+
+}  
+
+.rem {
+    margin-left: 65px;
+    color: gray;
+} 
+
+.ev {
+    margin-top: 100px; 
+    font-size:xx-large;
+}
+.evv {
+    margin-left: 3px;
+    color: gray;
+}
+
+.feed {
+    color: aliceblue;
+    font-size: large;
+    margin-left: 40em; 
+    
+}
+
+.t1 {
+    margin-top: 80px;
+    width: 6em;
+    margin-left: 20px;
+}
+
+.pixel h5 {
+    margin-left: 20px;
+    color: gray;
+}
+
+
+.isu {
+    font-size: x-large;
+    margin-left: 20px;
+} 
+
+.osu {
+    margin-left: 20px;
+    margin-top: 90px;
+}
+
+.card {
+
+    margin-top: 5em;
+    background: rgb(250, 250, 250);
+    display: flex;
+    /* justify-content: center; */
+  }
+  
+  .iscard {
+    width: 480px;
+    height: 230px;
+    border: 1px solid rgb(17, 17, 17);
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 4em; 
+    position: relative;
+    z-index: 11;
+  }
+
+  .iscard2 {
+    width: 480px;
+    height: 230px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 60px;
+  }
+
+  .lbl-foot1 {
+    margin-top: 30px;
+    margin-bottom: 30em;
+    /* margin-left: 5px; */
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+  }
+
+  .lbl-foot2 {
+    float: right;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
+
+  .salju {
+    width: 10em;
+    position: absolute;
+    left: 13em;
+    bottom: -4em;
+  }
+
+.abc {
+    background-color:#31CEFF;
+    padding:30px 90px;
+    border:solid 1px #31CEFF; 
+    height: 35em;
+    
+}
+
+.skat {
+    margin-right: 10em;
+    float: right;
+    width: 40em;
+}
+
+.skt {
+    margin-top: 9em;
+  
+    margin-left: 3em;
+    background-color:#31CEFF;
+    padding:5px 10px;
+    border:solid 1px #31CEFF; 
+    height: 35em;
+    width: 108em;
+    border-radius: 30px;
+}
+
+.our {
+    color: white;
+    font-size: 60px;
+    margin-top: 2em;
+    margin-left: 1em;
+}
+
+.oui {
+    color: white;
+    margin-top: 3em;
+    margin-left: 3em;
+}
+
+.fisid {
+    margin-left: 3em;
+    margin-top: 6em;
+    width: 9em;
+    font-size: 20px;
+    height: 3em;
+    border-radius: 50px;
+    background-color: white; 
+    color: #31CEFF;
+    border-color: #31CEFF;
+} 
+
+.fisid1 {
+    width: 12em;
+    height: 4em;
+    border-radius: 50px;
+    background-color: #31CEFF; 
+    color: rgb(0, 0, 0);
+    border-color: #31CEFF;
+}
+
+a {
+    color: rgb(0, 0, 0);
+}
+
+.news {
+    margin-top: 5em;
+    margin-left: 3em;
+}
+
+.div-text {
+    margin-right: auto;
+    display: flex;
+}
+.h1-t {
+    margin-right: auto;
+    border-left: 4px solid #31CEFF;
+    margin-bottom: 1em;
+    font-size: 50px;
+}
+
+.n-text {
+    color: gray;
+} 
+
+.footcard {
+
+    margin-top: 5em;
+    background: rgb(250, 250, 250);
+    display: flex;
+    /* justify-content: center; */
+  }
+  
+  .footcard1 {
+    width: 400px;
+    height: 550px;
+    border: 1px solid rgb(17, 17, 17);
+    margin-right: 10px;
+    margin-bottom: 5px;
+    margin-left: 8em; 
+    position: relative;
+    z-index: 11;
+  }
+
+  .footcard2 {
+    width: 480px;
+    height: 230px;
+    border: 1px solid rgb(0, 0, 0);
+    margin-right: 5px;
+    margin-bottom: 5px;
+    margin-left: 60px;
+  }
+
+  .lbl-foot1 {
+    margin-top: 30px;
+    margin-bottom: 30em;
+    text-transform: uppercase;
+    color: black;
+    font-weight: 600;
+  }
+
+  .lbl-foot2 {
+    float: right;
+    margin-top: 30px;
+    text-transform: uppercase;
+    font-size: 12px;
+  }
+
+  .nh {
+    margin-left: 20px;
+    font-size: x-large;
+  }
+
+  .np {
+    margin-top: 30px;
+    margin-left: 20px;
+    font-size: 15px;
+    color: gray;
+  }
+
+  .np2 {
+    margin-top: 40px;
+    margin-left: 20px;
+    color: gray; 
+    margin-right: auto;
+  } 
+
+  .fig {
+    display: flex;
+  }
+
+  .butt {
+    margin-right: 30px;
+    margin-top: 20px;
+    width: 9em;
+    height: 3em;
+    border-radius: 20px;
+    color: #31CEFF;
+    background-color: #E5F8FE;
+  }
+
+  .a-view {
+    color: #31CEFF;
+  }
